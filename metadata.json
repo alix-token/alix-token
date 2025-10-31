@@ -1,0 +1,36 @@
+{
+  "name": "ALIX AI Token",
+  "symbol": "ALIXA",
+  "description": "ALIX AI Token is a next-generation digital asset that bridges decentralized AI and blockchain technology within the Solana ecosystem.",
+  "image": "https://alix-token.io/logo.png",
+  "external_url": "https://alix-token.io",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://alix-token.io/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token",
+    "creators": [
+      {
+        "address": "EeUxfsHVq8yvgrmL8DJSagJqHCaELF7dR6ccCAmTgqS",
+        "share": 100
+      }
+    ]
+  }
+}
